@@ -1,5 +1,5 @@
 window.__RUNTIME_CONFIG__ = {
-  "VITE_ORDERLY_BROKER_ID": "demo",
+  "VITE_ORDERLY_BROKER_ID": "ausbro80",
   "VITE_ORDERLY_BROKER_NAME": "AlphaPort",
   "VITE_BROKER_EOA_ADDRESS": "0xb1fb986309aca2df4dcc85457dad246875e7cd0f",
   "VITE_DISABLE_MAINNET": "false",
@@ -27,7 +27,7 @@ window.__RUNTIME_CONFIG__ = {
   "VITE_TWITTER_URL": "https://x.com/ausbro80",
   "VITE_SEO_SITE_NAME": "AlphaPort",
   "VITE_SEO_SITE_DESCRIPTION": "Trade crypto, RWAs, and onchain markets through AlphaPort, a smooth custom DEX gateway powered by Orderly.",
-  "VITE_SEO_SITE_URL": "https://dex.orderly.network/alphaport-4734/",
+  "VITE_SEO_SITE_URL": "https://alphaportdex.trade",
   "VITE_SEO_SITE_LANGUAGE": "en",
   "VITE_SEO_SITE_LOCALE": "en_US",
   "VITE_SEO_TWITTER_HANDLE": "@ausbro80",
